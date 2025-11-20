@@ -48,7 +48,7 @@ airbnb-price-mlflow-s3/
 ### **1. Clone the repository**
 
 ```bash
-git clone 
+git clone https://github.com/valeriesolis/airbnb-price-mlflow-s3.git
 cd airbnb-price-mlflow-s3
 ```
 
