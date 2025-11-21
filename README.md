@@ -103,7 +103,7 @@ From the project root directory:
 mlflow ui --port 5000
 ```
 
-Open your browser and navigate to: `http://127.0.0.1:5001`
+Open your browser and navigate to: `http://127.0.0.1:5000`
 
 ---
 
